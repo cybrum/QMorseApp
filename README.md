@@ -42,6 +42,14 @@ QMorseApp/
 
 ---
 
+## 🙏 Acknowledgements
+
+This application is built with the powerful and flexible [Qt Framework](https://www.qt.io/).
+Qt enables cross-platform native application development using C++ and QML.
+Thanks to The Qt Company and the Qt open-source community for maintaining and evolving the framework.
+
+---
+
 ## 🚀 Build Instructions (Qt Creator)
 
 1. Open `CMakeLists.txt` in Qt Creator
